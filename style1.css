@@ -1,0 +1,15 @@
+.flex-container{
+    height: -75vh;
+    width:-75vw;
+    color : #009;
+    display: flex;}
+
+    .abc{
+        height: -75vh;
+        width:-75vw;
+        color : rgba(218, 42, 42, 0.533);
+        display: flex;}
+    
+
+
+}

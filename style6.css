@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(134, 82, 132);
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgb(112, 67, 112);
+    border-radius: 120px;
+    width: 435px;
+    height: 325px;
+}
+.center h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 175%;
+    font-style: oblique;
+    color: #000;
+}  
+.txt_field {
+    height: 40px;
+    font-size: 17px;
+    padding-left: 45px;
+}
+label{
+    width: 150px;
+    display: inline-block
+}
+input[type="submit"]{
+    width: 40%;
+    height: 30px;
+border: 1px;
+background: #3c73ba;
+border-radius: 25px;
+font-size: 18px;
+color: #e9f4fb;
+font-weight: 600;
+cursor: pointer;
+text-align: center;
+}
+#div1{
+    padding-top: 10px;
+    text-align: center;
+}
+    

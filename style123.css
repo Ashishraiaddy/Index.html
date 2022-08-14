@@ -1,0 +1,67 @@
+h3{
+    text-align: center;
+    padding-top: 150px;
+}
+#div1{
+    text-align: center;
+    padding-left: 22px;
+}
+#div2{
+    text-align: center;
+}
+#div3{
+    text-align: center;
+}
+input[type="submit"]{
+    background-color: rgb(40, 227, 168);
+    border-radius: 15px;
+    padding: 5px;
+    width: 8%;
+    font-weight: 800;
+
+}
+#heading1 {text-align: center;
+}
+input {
+    text-align: center;
+}
+h3{ 
+    padding-top: 150px;
+}
+#div1{
+    text-align: center;
+}
+#div2{
+    text-align: center;
+}
+
+body{
+    background: linear-gradient(120deg, red, #da1425);
+    text-align: center;
+}
+th{
+    padding: 10px 150px 10px 150px;
+    background-color: rgb(225, 21, 45);
+    cursor: pointer;
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    border-radius: 10px;
+}
+.center h2{
+    text-align: center;
+    padding: 0 0 20px 0;
+    color: rgb(30, 80, 80);
+    padding: 10px;
+}
+.center div{
+    text-align: center;
+    font-weight: 500;
+    font-size: larger;
+    padding: 0 0 20px 0;
+    color: rgb(46, 27, 2);
+}
